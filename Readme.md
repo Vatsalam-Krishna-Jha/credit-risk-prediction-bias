@@ -3,11 +3,6 @@
 End-to-end project for **credit default risk prediction** with an added focus on **fairness / bias mitigation**.  
 Includes multiple model baselines (Logistic Regression, Random Forest, LightGBM), model export utilities, and a simple web app for interactive inference.
 
-**Authors**
-- Ayaan Qayyum (aaq2109)
-- Swapnil Banerjee (sb5041)
-- Vatsalam Krishna Jha (vkj2107)
-
 
 ## What's inside
 
